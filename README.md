@@ -1,6 +1,6 @@
 # ColorPalette
 
-##### This is just a mini project that i did to learn the basics of Python Imaging Library, Pandas, Numpy and the K-Means Clustering Algorithm. I also did this because I am intigued by filmography. I knew this existed and wanted to figure out how it's done. And so I researched and wrote this code. I tried to make it as simple as possible for beginners to understand.
+##### This is just a mini project that i did to learn the basics of Python Imaging Library, Pandas, Numpy and the K-Means Clustering Algorithm. I also did this because I am intrigued by filmography. I knew this existed and wanted to figure out how it's done. And so I researched and wrote this code. I tried to make it as simple as possible for beginners to understand.
 
 ## How to use :
 ##### You must have Python installed on your system for this to run.
