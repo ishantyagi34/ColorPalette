@@ -11,3 +11,5 @@
 #### 5. Enter the name of the picture/image file.
 #### 6. Wait for a few seconds (depends on your system) and a Matplotlib window will show you the palette.
 #### 7. Finally close the window and check the project folder. A new file will be created named "ColorPalette.png".
+
+##### I have attached an example file in this repository.
